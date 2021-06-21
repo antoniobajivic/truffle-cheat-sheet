@@ -5,24 +5,24 @@ As their official site says, truffle is the most popular development framework f
 with a mission to make your life a whole lot easier. 
 
 Some of it's features are:
-	* Smart Lifecycle Management
-	* Automated Contract Testing
-	* Scriptable Deployment & Migrations
-	* Simple Network Management
-	* Powerful Interactive Console
-	* External Script Runner
+  * Smart Lifecycle Management
+  * Automated Contract Testing
+  * Scriptable Deployment & Migrations
+  * Simple Network Management
+  * Powerful Interactive Console
+  * External Script Runner
 
 Official Site: <https://www.trufflesuite.com/truffle>
 
 ## Prerequisites
 Some things are needed before starting to use Truffle:
-	* Node version: v12.22.1
-	* NPM version: v7.9.0
-	* Packages for projects:
-		** web3: v1.3.5
-		** @truffle/hdwallet-provider v1.2.6
-	* Account on Infura: <https://infura.io/>
-		** Make project on Ethereum network, set Endpoints for your development network
+  * Node version: v12.22.1
+  * NPM version: v7.9.0
+  * Packages for project:
+    ** web3: v1.3.5
+    ** @truffle/hdwallet-provider v1.2.6
+  * Account on Infura: <https://infura.io/>
+    ** Make project on Ethereum network, set Endpoints for your development network
 
 ## Get Truffle
 Run this command in terminal to get truffle
