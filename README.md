@@ -19,10 +19,10 @@ Some things are needed before starting to use Truffle:
   * Node version: v12.22.1
   * NPM version: v7.9.0
   * Packages for project:
-  ** web3: v1.3.5
-  ** @truffle/hdwallet-provider v1.2.6
+    * web3: v1.3.5
+    * @truffle/hdwallet-provider v1.2.6
   * Account on Infura: <https://infura.io/>
-  ** Make project on Ethereum network, set Endpoints for your development network
+    * Make project on Ethereum network, set Endpoints for your development network
 
 ## Get Truffle
 Run this command in terminal to get truffle
