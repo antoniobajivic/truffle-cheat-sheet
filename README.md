@@ -30,7 +30,7 @@ Run this command in terminal to get truffle
 npm install truffle -g
 ```
 
-## Setup configuration
+## Setup Configuration
 Inside your root project file there should be a file __truffle.js__ or (for Windows compatibility) __truffle-config.js__  and
 it should something like this:
 ```javascript
@@ -77,11 +77,13 @@ module.exports = {
 
 ```
 
-## Smart Contracts deployment
+## Smart Contracts Deployment
 
 Every projects needs to have migrations folder and __js__ files for instructions to deploy your contract.
 Names for each file have few rules, it needs to have number to know order of migrations instructions. 
+
 Example: `__1_initial_migration.js__`
+
 Instructions for deploying __Migrations.sol__ contract:
 ```javascript
 var Migrations = artifacts.require("./Migrations.sol");
