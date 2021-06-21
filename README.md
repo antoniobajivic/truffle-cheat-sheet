@@ -198,9 +198,9 @@ truffle migrate --network rinkeby
 
 ## Useful links
 * ["How to deploy a smart contract on a public test network (Rinkeby) using INFURA + TRUFFLE + truffle-hdwallet-provider"](https://andresaaap.medium.com/how-to-deploy-a-smart-contract-on-a-public-test-network-rinkeby-using-infura-truffle-8e19253870c4)
-* [Truffle Pet Shop Tutorial] (https://www.trufflesuite.com/tutorial)
-* [Web3 Documentation] (https://web3js.readthedocs.io/en/v1.3.4/)
-* [Package Documentation: @truffle/hdwallet-provider] (https://www.npmjs.com/package/@truffle/hdwallet-provider)
+* Truffle Pet Shop [Tutorial](https://www.trufflesuite.com/tutorial)
+* [Web3](https://web3js.readthedocs.io/en/v1.3.4/) Documentation
+* Package Documentation [@truffle/hdwallet-provider](https://www.npmjs.com/package/@truffle/hdwallet-provider)
 
 
 
