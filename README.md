@@ -33,7 +33,7 @@ npm install truffle -g
 ## Setup configuration
 Inside your root project file there should be a file __truffle.js__ or (for Windows compatibility) __truffle-config.js__  and
 it should something like this:
-``javascript
+```javascript
 const HDWalletProvider = require("@truffle/hdwallet-provider");
 const infuraKey = "INFURA_KEY_FROM_SETTINGS"
 const mnemonic = "MNEMONIC_FROM_YOUR_ETHEREUM_ACCOUNT" // Mnemonic for your wallet (e.g. Metamask)
